@@ -1,5 +1,5 @@
 Scottish COVID-19 Case Scraper
-This Python script scrapes the latest COVID-19 case numbers by Scottish health board from Statista, saves the data as a CSV file, and generates a bar chart visualizing case numbers.
+This Python script scrapes the latest COVID-19 case numbers by Scottish health board from Statista, saves the data as a CSV file, and generates a bar chart visualising case numbers.
 
 Features
 Web scraping with BeautifulSoup
